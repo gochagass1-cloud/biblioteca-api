@@ -2,7 +2,7 @@
 
 Este projeto simula uma API para gerenciamento de biblioteca.
 
-O objetivo é demonstrar a organização de um projeto back-end
+O objetivo é demonstrar a organização de um projeto Back-end
 utilizando GitHub.
 
 ## Estrutura do Projeto
